@@ -192,5 +192,6 @@
   "toast.matchesUnavailable": "Possible matches are currently unavailable",
   "toast.somethingWentWrong": "Something went wrong",
   "toast.unsupportedFileType": "That file type isn't supported",
+  "toast.test.diksha":"Diksha is testing",
   "wordListDelimiter": ", "
 }
